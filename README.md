@@ -15,6 +15,7 @@ Once looped through the two folders, the data frames for each folder are merged.
 The final tidy dataset contains the variables:
 
 1. subject.ID: unique subject identifier, numeric 
+
 values: 30 distinct numeric values
 
 2. activity.label: description of the activity being undertaken by the subject, factor
